@@ -1,5 +1,5 @@
 # STEM-MCI
-This repository includes a Jupyter Notebook (Run_Models.ipynb) that implements and runs various machine learning models for predicting cognitive status based on time-series ADL (Activities of Daily Living) data.
+This repository includes a Jupyter Notebook (Run_Models.ipynb) that implements and runs various machine learning models for predicting cognitive status based on spatial temporal features extracted from in-home mobility data.
 
 ***File Overview***
 
